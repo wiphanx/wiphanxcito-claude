@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wiphanx": {
+      "type": "http",
+      "url": "https://mcp.wiphanx.com/mcp"
+    }
+  }
+}

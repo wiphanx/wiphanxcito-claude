@@ -1,0 +1,14 @@
+{
+  "name": "wiphanx",
+  "description": "Plugins de Claude de Wiphanx.",
+  "owner": {
+    "name": "Wiphanx"
+  },
+  "plugins": [
+    {
+      "name": "wiphanxcito",
+      "source": "./plugins/wiphanxcito",
+      "description": "Wiphanxcito: la base de conocimiento de Wiphanx en Claude. Requiere una cuenta habilitada en Wiphanxcito."
+    }
+  ]
+}
