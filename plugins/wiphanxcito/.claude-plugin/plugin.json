@@ -1,7 +1,7 @@
 {
   "name": "wiphanxcito",
   "displayName": "Wiphanxcito",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Conecta Claude con Wiphanxcito: responde cómo funciona Wiphanx y qué se puede ofrecer, con la base de conocimiento oficial. Requiere una cuenta habilitada en Wiphanxcito.",
   "author": { "name": "Wiphanx", "url": "https://wiphanx.com" }
 }
